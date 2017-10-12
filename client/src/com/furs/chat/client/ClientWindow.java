@@ -1,8 +1,8 @@
 package com.furs.chat.client;
 
 
-import network.TCPConnection;
-import network.TCPConnectionListener;
+import com.furs.chat.network.TCPConnection;
+import com.furs.chat.network.TCPConnectionListener;
 
 import javax.swing.*;
 import java.awt.*;

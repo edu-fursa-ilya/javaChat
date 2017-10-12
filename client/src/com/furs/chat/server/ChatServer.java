@@ -1,7 +1,7 @@
-package server;
+package com.furs.chat.server;
 
-import network.TCPConnection;
-import network.TCPConnectionListener;
+import com.furs.chat.network.TCPConnection;
+import com.furs.chat.network.TCPConnectionListener;
 
 import java.io.IOException;
 import java.net.ServerSocket;

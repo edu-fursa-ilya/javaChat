@@ -1,4 +1,4 @@
-package network;
+package com.furs.chat.network;
 
 
 import java.io.*;
